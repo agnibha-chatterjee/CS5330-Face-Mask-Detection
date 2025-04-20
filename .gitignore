@@ -47,8 +47,6 @@ plot.png
 dataset/
 test_assets/
 
-# Face detector models (if not versioned)
-face_detector/
 
 # Ignore pip wheel files
 *.whl
