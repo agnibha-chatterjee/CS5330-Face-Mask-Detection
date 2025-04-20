@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Test and output files
+*.log
+*.out
+*.tmp
+
+# Model and plot files
+*.h5
+*.keras
+*.model
+*.ckpt
+*.pb
+*.tflite
+*.onnx
+*.pth
+*.pt
+*.weights
+*.pkl
+*.joblib
+plot.png
+
+# Dataset and test assets (if not versioned)
+dataset/
+test_assets/
+
+# Face detector models (if not versioned)
+face_detector/
+
+# Ignore pip wheel files
+*.whl
+
+# Ignore coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# Ignore mypy type check reports
+.mypy_cache/
+.dmypy.json
+
+# Ignore pytest cache
+.pytest_cache/ 
