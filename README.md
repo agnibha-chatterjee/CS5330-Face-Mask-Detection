@@ -5,6 +5,8 @@
 - Om Agarwal
 - Agnibha Chatterjee
 
+## About
+
 This project detects whether people in images or video streams are wearing face masks using deep learning. It consists of:
 
 - A face detector (OpenCV's DNN module with Caffe model)
