@@ -47,6 +47,9 @@ plot.png
 dataset/
 test_assets/
 
+*.pdf
+
+
 
 # Ignore pip wheel files
 *.whl

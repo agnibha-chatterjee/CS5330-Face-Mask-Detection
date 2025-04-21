@@ -1,3 +1,11 @@
+# detect_in_video.py
+#
+# Detects mask usage in a video stream using a pre-trained face mask detector model.
+#
+# Authors
+# - Agnibha Chatterjee
+# - Om Agarwal
+
 import argparse
 import imutils
 import time

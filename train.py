@@ -1,3 +1,11 @@
+# train.py
+#
+# Trains a face mask detector model using a pre-trained MobileNetV2 model.
+#
+# Authors
+# - Agnibha Chatterjee
+# - Om Agarwal
+
 import argparse
 import numpy as np
 import matplotlib.pyplot as plt

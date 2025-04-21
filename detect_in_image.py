@@ -1,3 +1,11 @@
+# detect_in_image.py
+#
+# Detects mask usage in an image using a pre-trained face mask detector model.
+#
+# Authors
+# - Agnibha Chatterjee
+# - Om Agarwal
+
 from keras.api.applications.mobilenet_v2 import preprocess_input
 from keras.api.preprocessing.image import img_to_array
 from keras.api.models import load_model
